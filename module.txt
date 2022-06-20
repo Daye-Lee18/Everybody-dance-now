@@ -6,3 +6,6 @@ def subract (a,b):
 
 def mul (a,b):
     a*b 
+
+def div(a,b):
+    return a//b
